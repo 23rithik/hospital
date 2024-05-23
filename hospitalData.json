@@ -1,0 +1,17 @@
+[
+  {
+    "name": "NS",
+    "patientCount": 150,
+    "location": "Kollam"
+  },
+  {
+    "name": "Medicity",
+    "patientCount": 200,
+    "location": "Kollam"
+  },
+  {
+    "name": "Chithra",
+    "patientCount": 250,
+    "location": "Kochi"
+  }
+]
